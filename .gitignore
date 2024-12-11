@@ -120,6 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+3d_fourier_basis/
 .env
 .venv
 env/
